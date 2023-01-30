@@ -22,8 +22,6 @@ export const users = {
     lastName: 'Docker',
     age: 17,
     position: 'tester',
-  },
-  5: {
     firstName: 'Julia',
     lastName: 'Docker',
     age: 25,
